@@ -17,7 +17,10 @@
 				"SonarSource.sonarlint-vscode",
 				"mhutchie.git-graph",
 				"eamodio.gitlens"
-			]
+			],
+			"settings": {
+				"typescript.tsdk": "node_modules/typescript/lib"
+			}
 		}
 	},
 
