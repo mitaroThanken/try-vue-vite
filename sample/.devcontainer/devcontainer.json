@@ -16,7 +16,9 @@
 				"dbaeumer.vscode-eslint",
 				"SonarSource.sonarlint-vscode",
 				"mhutchie.git-graph",
-				"eamodio.gitlens"
+				"eamodio.gitlens",
+				"Vue.volar",
+				"Vue.vscode-typescript-vue-plugin"
 			],
 			"settings": {
 				"typescript.tsdk": "node_modules/typescript/lib"
