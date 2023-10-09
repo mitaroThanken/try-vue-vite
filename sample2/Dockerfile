@@ -1,4 +1,4 @@
-FROM haproxy-with-minica/certs:latest as certs
+FROM try-vue-vite/certs:latest as certs
 FROM debian:bookworm
 
 RUN apt-get update \
